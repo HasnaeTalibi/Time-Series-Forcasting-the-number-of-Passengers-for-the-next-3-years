@@ -20,9 +20,13 @@ pmdarima
 - Testing For Stationarity (ADF test)
 
 4.Identify the optimal combination of parameters for the model
+
 5.Train the SARIMA model
+
 6.Investigate the residual plot of the model
+
 7.Test The model
+
 8.Forcast the future
 
 
